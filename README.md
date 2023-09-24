@@ -1,5 +1,5 @@
 
-## Olá, sou Dayane Paulino, Desenvolvedora Front End e Designer
+## Olá, sou Dayane Paulino, Desenvolvedora Front End e Designer de Interiores
 
 
 <div style="display: inline-block"></br>
