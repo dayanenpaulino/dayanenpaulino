@@ -1,5 +1,5 @@
 
-## Olá, sou Dayane Paulino, Desenvolvedora Front End e Designer de Interiores
+## Olá, sou Dayane Paulino, Desenvolvedora Front End / Cybersecurity test / Designer de Interiores e Estudante de Psicanalise.
 
 
 <div style="display: inline-block"></br>
