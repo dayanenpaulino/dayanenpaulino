@@ -1,12 +1,8 @@
 
-## Olá, sou Dayane Paulino, Analista de Cyber Segurança, Cyner Threat Intelligence, Ameaça de Inteligência e Designer de Interiores.
+## Olá, sou Dayane Paulino, Analista de Cyber Segurança, Cyber Threat Intelligence, Ameaça de Inteligência e Designer de Interiores.
 
     
-</div>
 
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayyynp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
