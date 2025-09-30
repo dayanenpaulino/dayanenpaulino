@@ -1,5 +1,5 @@
 
-## Olá, sou Dayane Paulino, Analista de Cyber Segurança, Cyber Threat Intelligence, Ameaça de Inteligência e Designer de Interiores.
+## Olá, sou Dayane Paulino, Analista de Cyber Threat Intelligence e Designer de Interiores.
 
     
 
